@@ -1,0 +1,29 @@
+.ui-widget,.ui-widget .ui-widget {
+	font-size: 12px !important;
+}
+
+.center {
+	align: center;
+}
+
+.normal {
+	text-align: inherit;
+}
+
+.arabic {
+	direction: rtl;
+	text-align: right;
+}
+
+.textRight {
+	
+}
+
+.textLeft {
+	
+}
+
+.integration {
+	color: #777777;
+	font-weight: 500;
+}
